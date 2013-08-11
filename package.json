@@ -1,7 +1,7 @@
 {
   "name": "shoutcast",
-  "version": "0.0.1",
-  "author": "Nick Campbell (http://github.com/ncb000gt)",
+  "version": "0.0.2",
+  "author": "Linaea P",
   "description": "Shoutcast Streaming Server",
   "keywords": ["music", "streaming music", "shoutcast", "streaming"],
   "repository": {
